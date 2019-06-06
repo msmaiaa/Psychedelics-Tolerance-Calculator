@@ -28,7 +28,7 @@ def calcularmdma(x = 0, y = 0):
 
 
 def main():
-    print("Test")
+    print("Testing")
     escolha = input("1 - Calcular tolerancia de psicodélicos \n2 - Calcular dosagem segura de MDMA\n")
     if escolha == '1':
         calcularlsd()
